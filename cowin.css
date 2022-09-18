@@ -1,0 +1,39 @@
+#button,
+a:link,
+a:visited {
+  background-color: rgb(5, 17, 106);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#button,
+a:hover,
+a:active {
+  background-color: rgb(5, 17, 106);
+}
+
+#searchbtn1 {
+  background-color: gold;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#searchbtn {
+  background-color: gainsboro;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#sebut {
+  background-color: gainsboro;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
